@@ -12,18 +12,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <details>
-  <summary>Click me</summary>
+  <summary>My Projects</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
+  ### Pinned
+  1. Budget Calculator
+  2. NightCare
      * Baz
      * Qux
+  3. Book review server
 
+<!--
   ### Some Javascript
   ```js
   function logSomething(something) {
     console.log('Something', something);
   }
   ```
+  -->
 </details>
