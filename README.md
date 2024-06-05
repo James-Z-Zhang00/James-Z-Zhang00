@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Z. Zhang
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on React front-end projects
+- 🌱 I’m currently learning Flask and Django
+- 💞️ I’m looking to collaborate on full stack open-source projects
 - 📫 james.z.zhang00@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: to be developed later
