@@ -1,8 +1,10 @@
 Hi, my name is James, a software solution provider based in Boston, MA
 
-My current focus:
-  1. React front-end development
+My current fields:
+  1. Full stack web development by React, Express and Node.js
   2. Large open-source projects contribution
+  3. Embedded programming and robotics
+  4. Systematic algorithm study
 
 Feel fee to checkout my [career journey](https://github.com/James-Z-Zhang00/career-journey)
 
