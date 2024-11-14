@@ -6,7 +6,7 @@ My current fields:
   3. Embedded programming and robotics
   4. Systematic algorithm study
 
-Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/) and my [career journey](https://github.com/James-Z-Zhang00/career-journey)
+Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/) and my [journey](https://github.com/James-Z-Zhang00/career-journey)
 
 
 <!---
