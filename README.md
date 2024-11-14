@@ -1,4 +1,10 @@
-- Software Solution Provider
+Hi, my name is James, a software solution provider based in Boston, MA
+
+My current focus:
+  1. React front-end development
+  2. Large open-source projects contribution
+
+Feel fee to checkout my (career journey)[]
 
 
 <!---
