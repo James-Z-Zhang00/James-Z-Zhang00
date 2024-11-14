@@ -4,7 +4,7 @@ My current focus:
   1. React front-end development
   2. Large open-source projects contribution
 
-Feel fee to checkout my (career journey)[]
+Feel fee to checkout my (career journey)[https://github.com/James-Z-Zhang00/career-journey]
 
 
 <!---
