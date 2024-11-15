@@ -1,10 +1,9 @@
 Hi, my name is James, a software solution provider based in Boston, MA
 
 My current fields:
-  1. Full stack web development by React, Express and Node.js
-  2. Large open-source projects contribution
-  3. Embedded programming and robotics
-  4. Systematic algorithm study
+  1. Front end UI development & design: React, CSS, SASS
+  2. Backend server development: RESTful API, Express, Django, Flask
+  3. Large open-source projects contribution
 
 Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/) and my [journey](https://github.com/James-Z-Zhang00/career-journey)
 
