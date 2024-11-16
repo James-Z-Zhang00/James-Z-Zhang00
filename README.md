@@ -1,4 +1,6 @@
 Hi, my name is James, a software solution provider based in Boston, MA
+- james.z.zhang00@gmail.com
+- Pronouns: he/him
 
 My current fields:
   1. Front end UI development & design: React, CSS, SASS
