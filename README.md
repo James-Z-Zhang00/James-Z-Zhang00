@@ -7,6 +7,14 @@ My current fields:
 
 Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
 
+| Project           | Last Update | Time  |
+| :---------------- | :---------: | ----: |
+| freeCodeCamp      |      -      | 00.00 |
+| flutter           |      -      | 00.00 |
+| react             |      -      | 00.00 |
+| django            |      -      | 00.00 |
+| express           |      -      | 00.00 |
+| bootstrap         |      -      | 00.00 |
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
