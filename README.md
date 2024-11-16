@@ -11,10 +11,10 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 
 **My Open Source Projects Contribution**
 
-| Project           | Last Update | Time  |
+| Project           | Last Update | Time & Pull Request |
 | :---------------- | :---------: | ----: |
-| freeCodeCamp      |      -      | 00.00 |
-| flutter           |      -      | 00.00 |
+| freeCodeCamp      | Fixed the instruction | 00.00 not merged |
+| flutter           | Project forked | 00.00 |
 | react             |      -      | 00.00 |
 | django            |      -      | 00.00 |
 | express           |      -      | 00.00 |
