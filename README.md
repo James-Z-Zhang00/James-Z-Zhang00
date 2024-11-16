@@ -11,14 +11,21 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 
 **Contribution of the Year**
 
-| Project           | Last Update | Time | Pull Request |
-| :---------------- | :---------: | :----: | ----: |
-| freeCodeCamp      | Fixed instruction for learners | Nov. 9th | not merged |
-| flutter           | Project forked | Nov. 15th | - |
-| react             | Project forked | Nov. 15th | - |
-| django            | Project forked | Nov. 15th | - |
-| express           | Project forked | Nov. 15th | - |
-| bootstrap         | Project forked | Nov. 15th | - |
+
+| Project           | Last Update | Time |
+| :---------------- | :---------: | ----: |
+| freeCodeCamp      | Fixed instruction for learners ❌ | Nov. 9th |
+| flutter           | Project forked ✅ | Nov. 15th |
+| react             | Project forked ✅ | Nov. 15th |
+| django            | Project forked ✅ | Nov. 15th |
+| express           | Project forked ✅ | Nov. 15th |
+| bootstrap         | Project forked ✅ | Nov. 15th |
+
+Where 
+  - Project is the large project I'm working on
+  - Last Update is the contribution or action I made to the project
+  - ✅ means the update successful
+  - ❌ means the update failed or pull request didn't merge
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
