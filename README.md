@@ -12,7 +12,7 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 **My Open Source Projects Contribution**
 
 | Project           | Last Update | Time | Pull Request |
-| :---------------- | :---------: | ----: |
+| :---------------- | :---------: | :----: | ----: |
 | freeCodeCamp      | Fixed instruction for learners | 00.00 | not merged |
 | flutter           | Project forked | 00.00 | - |
 | react             | Project forked | 00.00 | - |
