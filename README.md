@@ -9,16 +9,16 @@ My current fields:
 
 Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
 
-**My Open Source Projects Contribution**
+**Contribution of the Year**
 
 | Project           | Last Update | Time | Pull Request |
 | :---------------- | :---------: | :----: | ----: |
-| freeCodeCamp      | Fixed instruction for learners | 00.00 | not merged |
-| flutter           | Project forked | 00.00 | - |
-| react             | Project forked | 00.00 | - |
-| django            | Project forked | 00.00 | - |
-| express           | Project forked | 00.00 | - |
-| bootstrap         | Project forked | 00.00 | - |
+| freeCodeCamp      | Fixed instruction for learners | Nov. 9th | not merged |
+| flutter           | Project forked | Nov. 15th | - |
+| react             | Project forked | Nov. 15th | - |
+| django            | Project forked | Nov. 15th | - |
+| express           | Project forked | Nov. 15th | - |
+| bootstrap         | Project forked | Nov. 15th | - |
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
