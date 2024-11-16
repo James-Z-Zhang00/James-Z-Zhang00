@@ -11,14 +11,14 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 
 **My Open Source Projects Contribution**
 
-| Project           | Last Update | Time & Pull Request |
+| Project           | Last Update | Time | Pull Request |
 | :---------------- | :---------: | ----: |
-| freeCodeCamp      | Fixed the instruction | 00.00 not merged |
-| flutter           | Project forked | 00.00 |
-| react             |      -      | 00.00 |
-| django            |      -      | 00.00 |
-| express           |      -      | 00.00 |
-| bootstrap         |      -      | 00.00 |
+| freeCodeCamp      | Fixed instruction for learners | 00.00 | not merged |
+| flutter           | Project forked | 00.00 | - |
+| react             | Project forked | 00.00 | - |
+| django            | Project forked | 00.00 | - |
+| express           | Project forked | 00.00 | - |
+| bootstrap         | Project forked | 00.00 | - |
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
@@ -55,5 +55,5 @@ You can click the Preview link to take a look at your changes.
     console.log('Something', something);
   }
   ```
-  -->
-</details>
+  
+</details>-->
