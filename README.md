@@ -5,7 +5,7 @@ My current fields:
   2. Backend server development: RESTful API, Express, Django, Flask
   3. Large open-source projects contribution
 
-Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/) and my [journey](https://github.com/James-Z-Zhang00/career-journey)
+Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/) 
 
 
 <!---
