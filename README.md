@@ -11,21 +11,29 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 
 **Contribution of the Year**
 
+<details>
+  <summary>freeCodeCamp</summary>
 
-| Project           | Last Update | Time |
-| :---------------- | :---------: | ----: |
-| freeCodeCamp      | Fixed instruction for learners ❌ | Nov. 9th |
-| flutter           | Project forked ✅ | Nov. 15th |
-| react             | Project forked ✅ | Nov. 15th |
-| django            | Project forked ✅ | Nov. 15th |
-| express           | Project forked ✅ | Nov. 15th |
-| bootstrap         | Project forked ✅ | Nov. 15th |
+  ### Code Contribution
+  1. Forked and deployed the project locally
+  2. Investigated folder structure and learned about the system design
+  3. Fixed the learning instruction and user input check by JavaScript Regular Expression
+  
+  ### Article Translation
+  1. Learn Coding for Everyone Handbook
+  2. The JavaScript Promises Handbook
+  3. Java Interview Prep-Handbook
 
-Where 
-  - Project is the large project I'm working on
-  - Last Update is the contribution or action I made to the project
-  - ✅ means the update successful
-  - ❌ means the update failed or pull request didn't merge
+</details>
+
+<details>
+  <summary>flutter</summary>
+
+  ### Code Contribution
+  1. Forked the project
+  2. Learning the programming language Dart
+  
+</details>
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
