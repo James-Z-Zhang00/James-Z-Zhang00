@@ -9,7 +9,7 @@ My current fields:
 
 Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
 
-**Contribution of the Year**
+**Contributing**
 
 <details>
   <summary>freeCodeCamp</summary>
