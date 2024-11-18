@@ -7,7 +7,9 @@ My current fields:
     2. Backend server development: RESTful API, Express, Django, Flask
     3. Large open-source projects contribution
 
-Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
+Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="_blank">website</a>,
+
+[](), [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
 
 **Contributing**
 
