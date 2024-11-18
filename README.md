@@ -12,7 +12,7 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 **Contributing**
 
 <details>
-  <summary>freeCodeCamp</summary>
+  <summary> freeCodeCamp</summary>
 
   ### Code Contribution
   1. Forked and deployed the project locally
@@ -27,7 +27,7 @@ Feel free to checkout my [website](https://mywebsite-six-mu.vercel.app/), [LeetC
 </details>
 
 <details>
-  <summary>flutter</summary>
+  <summary> flutter</summary>
 
   ### Code Contribution
   1. Forked the project
