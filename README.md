@@ -35,6 +35,26 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
   
 </details>
 
+<details>
+  <summary> &nbsp;&nbsp;react</summary>
+
+</details>
+
+<details>
+  <summary> &nbsp;&nbsp;express</summary>
+  
+</details>
+
+<details>
+  <summary> &nbsp;&nbsp;django</summary>
+
+</details>
+
+<details>
+  <summary> &nbsp;&nbsp;tensorFlow</summary>
+  
+</details>
+
 <!---
 - 👋 Hi, I’m James Z. Zhang
 - 👀 I’m interested in full stack development
