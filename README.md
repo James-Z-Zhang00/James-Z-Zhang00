@@ -11,7 +11,11 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
 
 **Contributing**
 
-<details>
+<table>
+
+  <tr>
+    <td>
+      <details>
   <summary> &nbsp;&nbsp;freeCodeCamp</summary>
 
   ### Code Contribution
@@ -25,35 +29,63 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
   3. Java Interview Prep-Handbook
 
 </details>
-
-<details>
-  <summary> &nbsp;&nbsp;flutter</summary>
+    </td>
+    <td>
+      <details>
+    <summary> &nbsp;&nbsp;flutter</summary>
 
   ### Code Contribution
   1. Forked the project
   2. Learning the programming language Dart
   
 </details>
+    </td>
+  </tr>
 
-<details>
+  <tr>
+    <td>
+      <details>
   <summary> &nbsp;&nbsp;react</summary>
 
 </details>
-
-<details>
+    </td>
+    <td>
+    <details>
   <summary> &nbsp;&nbsp;express</summary>
   
 </details>
+    </td>
+  </tr>
 
-<details>
+  <tr>
+
+    <td>
+    <details>
   <summary> &nbsp;&nbsp;django</summary>
 
 </details>
-
-<details>
+    </td>
+    <td>
+    <details>
   <summary> &nbsp;&nbsp;tensorFlow</summary>
   
 </details>
+    </td>
+  </tr>
+  
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
