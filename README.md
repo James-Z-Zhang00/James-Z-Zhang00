@@ -16,7 +16,7 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
   <tr>
     <td>
       <details>
-  <summary> &nbsp;&nbsp;freeCodeCamp</summary>
+        <summary> &nbsp;&nbsp;freeCodeCamp</summary>
 
   ### Code Contribution
   1. Forked and deployed the project locally
@@ -28,7 +28,7 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
   2. The JavaScript Promises Handbook
   3. Java Interview Prep-Handbook
 
-</details>
+  </details>
     </td>
     <td>
       <details>
@@ -59,7 +59,7 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
 
   <tr>
 
-    <td>
+  <td>
     <details>
   <summary> &nbsp;&nbsp;django</summary>
 
