@@ -1,14 +1,12 @@
-Hi, my name is James, a software solution provider based in Boston, MA
-  - james.z.zhang00@gmail.com
-  - Pronouns: he/him
+- 👋 Hi, I’m James Z. Zhang
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Flask and Django
+- 💞️ I’m looking to collaborate on full stack open-source projects
+- 📫 james.z.zhang00@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: to be developed later
 
-My current fields:
-    1. Front end UI development & design: React, CSS, SASS
-    2. Backend server development: RESTful API, Express, Django, Flask
-    3. Large open-source projects contribution
-
-Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="_blank">website</a>, [LeetCode](https://github.com/James-Z-Zhang00/LeetCoder) study and [system design](https://github.com/James-Z-Zhang00/SysDes) study.
-
+<!---
 **Contributing**
 
 <table>
@@ -76,7 +74,7 @@ Feel free to checkout my <a href="https://mywebsite-six-mu.vercel.app/" target="
 </table>
 
 
-
+--->
 
 
 
