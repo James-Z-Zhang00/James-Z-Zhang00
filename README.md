@@ -1,3 +1,6 @@
+Full Stack Developer with expertise in deep learning neuron network
+
+<!---
 - 👋 Hi, I’m James Z. Zhang
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Flask and Django
@@ -6,7 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: to be developed later
 
-<!---
 **Contributing**
 
 <table>
