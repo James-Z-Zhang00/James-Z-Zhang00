@@ -1,4 +1,4 @@
-Full Stack Developer with expertise in deep learning neuron network
+Software Development, AI and System Design
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
