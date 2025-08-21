@@ -2,9 +2,10 @@ Software Development, AI and System Design
 
 *Baseball 🥎 Volunteerism 🙋‍♂️ Guitar 🎸 American History 🇺🇸*
 
-- [My website (updating)](https://james-z-zhang-1deoe2t5p-jameszzhangs-projects.vercel.app/)
+- My website (updating): james-z-zhang.vercel.app/
 - My email: james-z-zhang00@gmail.com
 - LinkedIn: linkedin.com/in/james-z-zhang00/
+- WeChat: james-z-zhang00
 
 <!---
 - 👋 Hi, I’m James Z. Zhang
