@@ -2,9 +2,9 @@ Software Development, AI and System Design
 
 *Baseball* 🥎 *Volunteerism* 🙋‍♂️ *Guitar* 🎸 *American History* 🇺🇸
 
-- My website (updating): [james-z-zhang.vercel.app/](https://james-z-zhang.vercel.app/)
+- My website (updating): <a href="https://james-z-zhang.vercel.app/" target="_blank">james-z-zhang.vercel.app/</a>
 - My email: james-z-zhang00@gmail.com
-- LinkedIn: [linkedin.com/in/james-z-zhang00/](https://www.linkedin.com/in/james-z-zhang00/)
+- LinkedIn: <a href="https://www.linkedin.com/in/james-z-zhang00/" target="_blank">linkedin.com/in/james-z-zhang00//</a>
 - WeChat: james-z-zhang00
 
 <!---
