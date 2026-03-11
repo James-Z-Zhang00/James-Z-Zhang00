@@ -1,3 +1,4 @@
-AI/Software Engineering student | RAG System Development
-
-📷 Photography • 🥋 Wrestling Training • 🪗 Harmonica • 📚 American History
+**Projects**
+1. `graph-rag-finance-assistant` 
+2. freeCodeCamp
+3. `terminal-toolset`
