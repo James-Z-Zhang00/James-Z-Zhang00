@@ -1,13 +1,10 @@
-Building production-oriented AI systems with a focus on GraphRAG, cloud architecture, system design, and AI-assisted engineering workflows.
 
-## Featured Areas
+#### Featured Areas
 - AI applications and retrieval systems
 - System design and distributed architecture
 - Engineering workflows and developer tooling
 - Open-source contribution
 
-## Links
-- Website: [james-z-zhang00.vercel.app](https://james-z-zhang00.vercel.app)
-- LinkedIn: [linkedin.com/in/james-z-zhang00](https://www.linkedin.com/in/james-z-zhang00/)
+#### Contact
 - Email: james-z-zhang00@gmail.com
 - WeChat: james-z-zhang00
