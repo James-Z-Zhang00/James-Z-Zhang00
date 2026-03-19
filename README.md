@@ -1,19 +1,21 @@
 # James Z. Zhang
 
-Building production-oriented AI systems with a focus on GraphRAG, cloud deployment, system design, and practical engineering workflows.
+Building production-oriented AI systems with a focus on GraphRAG, cloud architecture, system design, and AI-assisted engineering workflows.
 
-## What I Work On
+## Featured Areas
 - AI applications and retrieval systems
-- Service-oriented backend architecture
-- Cloud infrastructure and deployment design
-- Engineering tooling and AI-assisted development workflows
+- System design and distributed architecture
+- Engineering workflows and developer tooling
+- Open-source contribution
 
-## Selected Repositories
-- **graph-rag-finance-assistant** — flagship AI engineering project
-- **ai-system-design** — system design notes, architecture diagrams, and engineering research
-- **operating-system-toolset** — productivity tools and workflow utilities
+## Pinned Repositories
+- **graph-rag-finance-assistant** — flagship AI system
+- **freeCodeCamp** — open-source contribution
+- **ai-system-design** — architecture notes and diagrams
+- **ai-automation-workflow** — AI development workflow notes and practices
+- **operating-system-toolset** — shell tools and workflow utilities
 
-## Connect
-- Website: [james-z-zhang.vercel.app](https://james-z-zhang.vercel.app)
+## Links
+- Website: [james-z-zhang00.vercel.app](https://james-z-zhang00.vercel.app)
 - LinkedIn: [linkedin.com/in/james-z-zhang00](https://www.linkedin.com/in/james-z-zhang00/)
 - Email: james-z-zhang00@gmail.com
