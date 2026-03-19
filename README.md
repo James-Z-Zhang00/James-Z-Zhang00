@@ -1,5 +1,3 @@
-# James Z. Zhang
-
 Building production-oriented AI systems with a focus on GraphRAG, cloud architecture, system design, and AI-assisted engineering workflows.
 
 ## Featured Areas
