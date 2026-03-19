@@ -19,3 +19,4 @@ Building production-oriented AI systems with a focus on GraphRAG, cloud architec
 - Website: [james-z-zhang00.vercel.app](https://james-z-zhang00.vercel.app)
 - LinkedIn: [linkedin.com/in/james-z-zhang00](https://www.linkedin.com/in/james-z-zhang00/)
 - Email: james-z-zhang00@gmail.com
+- WeChat: james-z-zhang00
