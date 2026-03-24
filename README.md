@@ -6,7 +6,7 @@
 - Open-source contribution
 
 
-👉 [View the project board](https://github.com/users/James-Z-Zhang00/projects/1)
+<!-- 👉 [View the project board](https://github.com/users/James-Z-Zhang00/projects/1) -->
 
 #### Contact
 - Email: james-z-zhang00@gmail.com
